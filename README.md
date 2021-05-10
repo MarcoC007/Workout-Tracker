@@ -9,7 +9,7 @@
 * CSS
 
 ## Link
-![WorkoutTracker](https://workout-track-application.herokuapp.com/)
+[WorkoutTracker](https://workout-track-application.herokuapp.com/)
 
 ## Screenshots 
 ![screencapture-workout-track-application-herokuapp-2021-05-09-21_38_40](https://user-images.githubusercontent.com/72709524/117595644-65793480-b10f-11eb-8a38-95aad5334c5e.png)
